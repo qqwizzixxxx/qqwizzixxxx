@@ -1,8 +1,3 @@
---Hello My Name Is qqwizzixxxx
+Im Fine.
 
-
---im A New Roblox Scripter
-
-
---Bye
-
+-qqwizzixxxx
