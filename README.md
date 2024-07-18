@@ -9,3 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=qqwizzixxxx&show_icons=true&theme=transparent" alt="qqwizzixxxx" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqwizzixxxx&show_icons=true&theme=transparent" alt="qqwizzixxxx" /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20Doing%20a%20Nothing...)](https://discord.com/users/802215458588721187)
