@@ -10,6 +10,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=qqwizzixxxx&show_icons=true&theme=transparent" alt="qqwizzixxxx" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqwizzixxxx&show_icons=true&theme=transparent" alt="qqwizzixxxx" /></p>
 
-<h1 align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/802215458588721187)](https://discord.com/users/802215458588721187)
-</h1>
+ [![Discord Presence](https://lanyard.cnrad.dev/api/802215458588721187)](https://discord.com/users/802215458588721187)
