@@ -3,7 +3,7 @@
 </h1>
 
 # Hi There, My Name Is qqwizzixxxx Im Using A:
-[![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,batch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,windows)](https://skillicons.dev)
 
 # My Discord Is: qqwizzixxxx.
 
