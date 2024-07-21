@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=8478F7&center=true&vCenter=true&random=true&width=900&lines=Hello+My%20Name%20Is+qqwizzixxxx" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=8478F7&center=true&vCenter=true&random=true&width=900&lines=qqwizzixxxx" />
 </h1>
 
 # Hi There, My Name Is qqwizzixxxx Im Using A:
