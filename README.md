@@ -24,7 +24,7 @@ local WhoIsqqwizzixxxx =
      Nickname: qqwizzixxxx
      Country: Russia
      City: Moscow
-     Full Adress: ?
+     Full_Adress: ?
      Telegram: @qqwizzixxxx
      Phone_Number(Virtual): +19402511642
      Discord: qqwizzixxxx
