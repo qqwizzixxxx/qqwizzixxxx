@@ -5,9 +5,33 @@
 # Hi There, My Name Is qqwizzixxxx Im Rookie Coder From Russia, Developing Using:
 [![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,windows)](https://skillicons.dev)
 
-```python
-wrkingon = Database_Tool
-print(wrkingon)
+```lua
+local d = b
+    local b = d
+        d,b = projects
+            projects =
+            {
+             DATABASE_SEARCH.py
+             POOPDDOS.py
+             UNTITLED_HUB.lua
+             SUSFLOOD.py
+            }
+local WhoIsqqwizzixxxx =
+    {
+     Name: ?
+     Surname: ?
+     Age: ?
+     Nickname: qqwizzixxxx
+     Country: Russia
+     City: Moscow
+     Full Adress: ?
+     Telegram: @qqwizzixxxx
+     Phone Number(Virtual): +19402511642
+     Discord: qqwizzixxxx
+     Ip Adress: ?
+    }
+
+print(projects, WhoIsqqwizzixxxx)
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=qqwizzixxxx&show_icons=true&theme=transparent" alt="qqwizzixxxx" /></p>
