@@ -26,9 +26,9 @@ local WhoIsqqwizzixxxx =
      City: Moscow
      Full Adress: ?
      Telegram: @qqwizzixxxx
-     Phone Number(Virtual): +19402511642
+     Phone_Number(Virtual): +19402511642
      Discord: qqwizzixxxx
-     Ip Adress: ?
+     Ip_Adress: ?
     }
 
 print(projects, WhoIsqqwizzixxxx)
