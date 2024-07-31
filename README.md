@@ -6,17 +6,15 @@
 [![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,windows)](https://skillicons.dev)
 
 ```python
-d = b
-    b = d
-        d,b = projects
-            projects =
-            {
-             DATABASE_SEARCH.py
-             POOPDDOS.py
-             UNTITLED_HUB.lua
-             SUSFLOOD.py
-            }
-local WhoIsqqwizzixxxx =
+
+projects =
+    {
+    DATABASE_SEARCH.py
+    POOPDDOS.py
+    UNTITLED_HUB.lua
+    SUSFLOOD.py
+    }
+WhoIsqqwizzixxxx =
     {
      Name: ?
      Surname: ?
