@@ -9,24 +9,24 @@
 
 projects =
     {
-    DATABASE_SEARCH.py
-    POOPDDOS.py
-    UNTITLED_HUB.lua
-    SUSFLOOD.py
+    DATABASE_SEARCH.py,
+    POOPDDOS.py,
+    UNTITLED_HUB.lua,
+    SUSFLOOD.py,
     }
 WhoIsqqwizzixxxx =
     {
-     Name: ?
-     Surname: ?
-     Age: ?
-     Nickname: qqwizzixxxx
-     Country: Russia
-     City: Moscow
-     Full_Adress: ?
-     Telegram: @qqwizzixxxx
-     Phone_Number: 79***7***1**
-     Discord: qqwizzixxxx
-     Ip_Adress: ?
+     Name: ?,
+     Surname: ?,
+     Age: ?,
+     Nickname: qqwizzixxxx,
+     Country: Russia,
+     City: Moscow,
+     Full_Adress: ?,
+     Telegram: @qqwizzixxxx,
+     Phone_Number: 79***7***1**,
+     Discord: qqwizzixxxx,
+     Ip_Adress: ?,
     }
 
 print(projects, WhoIsqqwizzixxxx)
