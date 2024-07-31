@@ -6,8 +6,8 @@
 [![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,windows)](https://skillicons.dev)
 
 ```python
-local d = b
-    local b = d
+d = b
+    b = d
         d,b = projects
             projects =
             {
