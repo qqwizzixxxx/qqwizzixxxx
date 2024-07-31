@@ -5,7 +5,7 @@
 # Hi There, My Name Is qqwizzixxxx Im Rookie Coder From Russia, Developing Using:
 [![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,windows)](https://skillicons.dev)
 
-```lua
+```python
 local d = b
     local b = d
         d,b = projects
