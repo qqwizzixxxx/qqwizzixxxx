@@ -26,7 +26,7 @@ local WhoIsqqwizzixxxx =
      City: Moscow
      Full_Adress: ?
      Telegram: @qqwizzixxxx
-     Phone_Number(Virtual): +19402511642
+     Phone_Number: 79***7***1**
      Discord: qqwizzixxxx
      Ip_Adress: ?
     }
