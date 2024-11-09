@@ -3,7 +3,7 @@
 </h1>
 
 # Hi There, My Name Is qqwizzixxxx Im Rookie Coder From Russia, Developing Using:
-[![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,windows,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,lua,python,html,java)](https://skillicons.dev)
 
 ```python
 
